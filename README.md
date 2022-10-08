@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HeetDobariya
 - 👀 I’m interested in Programing.
 - 🌱 I’m currently learning BCA at UTU at india , Gujarat. 
+- 🧠 I'm Learning c, c++, Java Prgramming languages.
 - 📫 How to reach me : contact to heetdobariya466@gmail.com
 
 <!---
